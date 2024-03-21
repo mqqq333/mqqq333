@@ -5,12 +5,12 @@
 I'm mqqq333, a senior majoring in Psychology in Zhejiang University.
 </p>
 <h3 align="center">Languages</h3>
+
+
 <div align="center">
 ![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 </div>
 
 <h3 align="center">Email</h3>
