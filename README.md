@@ -27,7 +27,7 @@ I'm mqqq333, a senior majoring in Psychology in Zhejiang University.
 <div align="center">
 
 
-  ![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqi316101@gmail.com)
+  [![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqi316101@gmail.com)
 
 </div>
 <h3 align="center">GitHub Stats</h3>
