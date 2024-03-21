@@ -7,10 +7,10 @@ I'm mqqq333, a senior majoring in Psychology in Zhejiang University.
 <h3 align="center">Languages</h3>
 
 <h3 align="center">GitHub Stats</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CSWellesSun" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mqqq333" /> </div>
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/CSWellesSun/CSWellesSun/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/mqqq333/mqqq333/main/assets/github-contribution-grid-snake.svg)
 
 </div>
