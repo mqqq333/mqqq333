@@ -48,7 +48,7 @@
 
 ![](https://raw.githubusercontent.com/mqqq333/mqqq333/main/assets/github-contribution-grid-snake.svg)
 
-![](https://leetcode-badge.mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year)
+![](https://leetcode-badge.u/mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year)
 ![](https://leetcode-badge.mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year&color=yellow)
 ![](https://leetcode-badge.mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year&color=blue)
 
