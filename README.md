@@ -54,7 +54,7 @@
 
 ![](https://leetcode-badge.mqqq333.dev/v1cn/card/question-process/mqqq333.svg)
 ![](https://leetcode-badge.mqqq333.dev/v1cn/card/contest-ranking/mqqq333.svg)
-
+![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/haozibi.svg)
 
 
 </div>
