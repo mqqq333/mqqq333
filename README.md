@@ -45,13 +45,12 @@
 ![](https://raw.githubusercontent.com/mqqq333/mqqq333/main/assets/github-contribution-grid-snake.svg)
 
 
-[![CircleCI](https://circleci.com/gh/haozibi/leetcode-badge/tree/master.svg?style=svg)](https://circleci.com/gh/haozibi/leetcode-badge/tree/master) [![](https://img.shields.io/badge/Github-leetcode--badge-blueviolet)](https://github.com/haozibi/leetcode-badge) [![Go Report Card](https://goreportcard.com/badge/github.com/haozibi/leetcode-badge)](https://goreportcard.com/report/github.com/haozibi/leetcode-badge) [![](https://leetcode-badge.haozibi.dev/v1cn/haozibi.svg)](https://leetcode.cn/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/haozibi.svg)](https://leetcode.cn/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/haozibi.svg)](https://leetcode.cn/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/haozibi.svg)](https://leetcode.cn/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/haozibi.svg)](https://leetcode.cn/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/haozibi.svg)](https://leetcode.cn/haozibi)
 
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/haozibi.svg?type=past-year)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/haozibi.svg?type=past-year&color=yellow)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/haozibi.svg?type=past-year&color=blue)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/mqqq.svg?type=past-year)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/mqqq.svg?type=past-year&color=yellow)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/mqqq.svg?type=past-year&color=blue)
 
-![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/haozibi.svg)
-![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/haozibi.svg)
+![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/mqqq.svg)
+![](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/mqqq.svg)
 
 </div>
