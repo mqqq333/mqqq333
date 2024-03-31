@@ -41,7 +41,7 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mqqq333" /> </div>
 
 <div align="center">
-https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/{LeetCode_ID}.svg?type=past-year&color=yellow
+https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/{mqqq}.svg?type=past-year&color=yellow
 ![](https://raw.githubusercontent.com/mqqq333/mqqq333/main/assets/github-contribution-grid-snake.svg)
 
 </div>
