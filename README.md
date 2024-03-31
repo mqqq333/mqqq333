@@ -48,12 +48,12 @@
 
 ![](https://raw.githubusercontent.com/mqqq333/mqqq333/main/assets/github-contribution-grid-snake.svg)
 
-![](https://leetcode-badge.u/mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year)
-![](https://leetcode-badge.mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year&color=yellow)
-![](https://leetcode-badge.mmqqq.dev/v1cn/chart/submission-calendar/mmqqq.svg?type=past-year&color=blue)
+![](https://leetcode-badge/mqqq333.dev/v1cn/chart/submission-calendar/mqqq333.svg?type=past-year)
+![](https://leetcode-badge.mqqq333.dev/v1cn/chart/submission-calendar/mqqq333.svg?type=past-year&color=yellow)
+![](https://leetcode-badge.mqqq333.dev/v1cn/chart/submission-calendar/mqqq333.svg?type=past-year&color=blue)
 
-![](https://leetcode-badge.mmqqq.dev/v1cn/card/question-process/mmqqq.svg)
-![](https://leetcode-badge.mmqqq.dev/v1cn/card/contest-ranking/mmqqq.svg)
+![](https://leetcode-badge.mqqq333.dev/v1cn/card/question-process/mqqq333.svg)
+![](https://leetcode-badge.mqqq333.dev/v1cn/card/contest-ranking/mqqq333.svg)
 
 
 
