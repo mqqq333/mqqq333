@@ -14,17 +14,9 @@
 <h3 align="center">Languages</h3>
 
 <div align="center">
-  <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C badge">
-  </div>
-
-  <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge">
-  </div>
-  
-  <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
-  </div>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C badge">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
 </div>
 
 
