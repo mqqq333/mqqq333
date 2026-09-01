@@ -38,13 +38,7 @@ Computational neuroscience, structural MRI, hemispheric asymmetry, cross-hemisph
 
 ## ✍️ Writing
 
-I write about brain science, computational neuroscience, NeuroAI, research tools, and reproducible workflows on the public WeChat channels **阿瞒的脑洞 (A Man's Brainhole)** and **工心应援会**.
-
-Selected articles:
-
-- [AI-assisted interaction and user experience](https://mp.weixin.qq.com/s/6bb3bIRYIP8NR8d97EuBmw)
-- [How affective computing systems shape user experience](https://mp.weixin.qq.com/s/kxHH7hxd9WSx3Zp2OCkWkg)
-- [Human-AI collaboration and more empathic dialogue](https://mp.weixin.qq.com/s/h0Gb03j-ZU-f5NF96A-bPw)
+I write about brain science, computational neuroscience, NeuroAI, research tools, and reproducible workflows on my public WeChat channel **阿瞒的脑洞 (A Man's Brainhole)**.
 
 ## 🎓 Education and Skills
 
