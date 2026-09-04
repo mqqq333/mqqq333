@@ -40,6 +40,15 @@ Computational neuroscience, structural MRI, hemispheric asymmetry, cross-hemisph
 
 I write about brain science, computational neuroscience, NeuroAI, research tools, and reproducible workflows on my public WeChat channel **阿瞒的脑洞 (A Man's Brainhole)**.
 
+<p align="center">
+  <img src="https://mqqq333.github.io/images/aman_brainhole_qr.png" alt="QR code to follow the WeChat Official Account 阿瞒的脑洞 (A Man's Brainhole)" width="180">
+</p>
+
+<p align="center">
+  Scan with WeChat to follow<br>
+  <a href="https://mqqq333.github.io/#writing">Read the Writing section on my academic homepage</a>
+</p>
+
 ## 🎓 Education and Skills
 
 - **Zhejiang University**, B.S. in Psychology (2021-2025).
