@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>MA Qi (马琦)</strong><br>
-  Research Assistant, Cognomics Lab, Zhejiang Uni.
+  Incoming M.A. Student in Computational Linguistics, Heidelberg University
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@
 </p>
 
 ## 🧠 About
+
+I will join the **M.A. in Computational Linguistics** at [Heidelberg University](https://www.uni-heidelberg.de/en/study/all-subjects/computational-linguistics/computational-linguistics-master) in the **winter semester 2026/27**. I currently work as a research assistant at the Cognomics Lab, Zhejiang University.
 
 I work at the intersection of computational neuroscience, structural neuroimaging, brain hemispheric lateralization, and generative modeling. I build reproducible research workflows and software for interpretable neuroimaging analysis.
 
@@ -51,6 +53,7 @@ I write about brain science, computational neuroscience, NeuroAI, research tools
 
 ## 🎓 Education and Skills
 
+- **Heidelberg University**, M.A. in Computational Linguistics (incoming, winter semester 2026/27).
 - **Zhejiang University**, B.S. in Psychology (2021-2025).
 - **TOEFL iBT:** 5/6 (100/120).
 - Python, PyTorch, machine learning, deep learning, structural and task-fMRI analysis, neuroimaging visualization, statistical modeling, reproducible research software, Git/GitHub, and LaTeX.
